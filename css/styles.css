@@ -3,7 +3,16 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color:darkred;
+}
+
 .sidebar {
   float: right;
   width: 300px;
+}
+
+.bottom {
+  float: down;
+  height: 110px;
 }
