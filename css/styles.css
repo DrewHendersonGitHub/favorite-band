@@ -8,11 +8,20 @@ h2 {
 }
 
 .sidebar {
+  border: 20px solid;
+  border-color: rgb(0, 139, 12);
+  background-color: yellow;
+  outline: solid;
+  outline-color:orangered;
+  margin: 40px;
   float: right;
   width: 300px;
 }
 
 .bottom {
-  float: down;
   height: 110px;
+  padding: 50px;
+  outline:solid;
+  outline-color:pink;
+  border: 15px solid;
 }
